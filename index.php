@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>タイトル</title>
-    <link href="C:\Users\a3no_\Desktop\HTML\index.css" rel="stylesheet">
+    <link href="index.css" rel="stylesheet">
     </style>
   </head>
   <body>
